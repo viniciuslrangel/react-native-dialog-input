@@ -1,6 +1,6 @@
 {
   "name": "react-native-dialog-input",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Dialog with input for React Native on iOS and Android.",
   "main": "index.js",
   "scripts": {
@@ -19,6 +19,9 @@
     "ios"
   ],
   "author": "Jose Estrella",
+  "contributors": [
+    "Vinicius Rangel <vinicius.l.rangel@gmail.com>"
+  ],
   "bugs": {
     "url": "https://github.com/joseestrella89/react-native-dialog-input/issues"
   }
